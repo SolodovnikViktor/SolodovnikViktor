@@ -29,7 +29,7 @@
 * Интернет - магазин для компании SitDownPls. (https://github.com/SolodovnikViktor/SitDownPls-BUILD)
 Посмотреть проект: (https://solodovnikviktor.github.io/SitDownPls-BUILD/)
 * Интернет-магазин "Технозавррр" на VueJS (https://github.com/SolodovnikViktor/vue-app) Посмотреть проект: (https://solodovnikviktor.github.io/vue-app/#/).
-* Интернет-магазин "Технозавррр" на VueJS (https://github.com/SolodovnikViktor/3D-Courses) Посмотреть проект: (https://solodovnikviktor.github.io/vue-app/#/).
+* Интернет-магазин "Технозавррр" на VueJS (https://github.com/SolodovnikViktor/3D-Courses).
 * Пишите сообщения о разработке программного обеспечения.
 * В настоящее время работаю на фрилансе.
 ---
