@@ -28,6 +28,7 @@
 * Разработка банковской системы хранения и операций над криптовалютными средствами. (https://github.com/SolodovnikViktor/CRM-coin).
 * Интернет - магазин для компании SitDownPls. (https://github.com/SolodovnikViktor/SitDownPls-BUILD)
 Посмотреть проект: (https://solodovnikviktor.github.io/SitDownPls-BUILD/)
+* Интернет-магазин "Технозавррр" на VueJS (https://solodovnikviktor.github.io/vue-app/#/).
 * Пишите сообщения о разработке программного обеспечения.
 * В настоящее время работаю на фрилансе.
 ---
