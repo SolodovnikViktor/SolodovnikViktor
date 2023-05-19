@@ -25,11 +25,12 @@
 ---
 
 ## ✔️  Мои проекты
+* Интернет-магазин "Moire" на VueJS, посмотреть (https://solodovnikviktor.github.io/vue-moire/#/).
 * Разработка банковской системы хранения и операций над криптовалютными средствами. (https://github.com/SolodovnikViktor/CRM-coin).
 * Интернет - магазин для компании SitDownPls. (https://github.com/SolodovnikViktor/SitDownPls-BUILD)
 Посмотреть проект: (https://solodovnikviktor.github.io/SitDownPls-BUILD/)
 * Интернет-магазин "Технозавррр" на VueJS (https://github.com/SolodovnikViktor/vue-app) Посмотреть проект: (https://solodovnikviktor.github.io/vue-app/#/).
-* Интернет-магазин "Технозавррр" на VueJS (https://github.com/SolodovnikViktor/3D-Courses).
+* Вёрстка сайта по макету 3D-Courses (https://github.com/SolodovnikViktor/3D-Courses).
 * Пишите сообщения о разработке программного обеспечения.
 * В настоящее время работаю на фрилансе.
 ---
