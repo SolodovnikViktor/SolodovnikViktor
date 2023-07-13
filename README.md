@@ -22,6 +22,8 @@
 ---
 
 ## ✔️  Мои проекты
+* Сайт заказа авто из США, auto-express. БЭМ, атаптив, JQuery, WordPress, хостинг webhost1 (https://github.com/SolodovnikViktor/auto-express)
+ мосмотреть сайт (http://u255299.com7.ru/) Aдминка (http://u255299.com7.ru/wp-admin/) Имя пользователя: guest, Пароль: guest.
 * Интернет-магазин "Moire" на VueJS, посмотреть (https://solodovnikviktor.github.io/vue-moire/#/).
 * Разработка банковской системы хранения и операций над криптовалютными средствами. (https://github.com/SolodovnikViktor/CRM-coin).
 * Интернет - магазин для компании SitDownPls. (https://github.com/SolodovnikViktor/SitDownPls-BUILD)
