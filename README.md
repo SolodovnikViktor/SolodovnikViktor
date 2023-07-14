@@ -26,6 +26,7 @@
   БЭМ, адаптив, JQuery, WordPress, хостинг webhost1 (https://github.com/SolodovnikViktor/auto-express) <br>
   посмотреть сайт (http://u255299.com7.ru/) <br>
   Aдминка (http://u255299.com7.ru/wp-admin/) Имя пользователя: guest, Пароль: guest.
+* Cобственная CMS интернет-магазина. (https://github.com/SolodovnikViktor/new-ishop.loc)
 * Интернет-магазин "Moire" на VueJS, посмотреть (https://solodovnikviktor.github.io/vue-moire/#/).
 * Разработка банковской системы хранения и операций над криптовалютными средствами. (https://github.com/SolodovnikViktor/CRM-coin).
 * Интернет - магазин для компании SitDownPls. (https://github.com/SolodovnikViktor/SitDownPls-BUILD)
